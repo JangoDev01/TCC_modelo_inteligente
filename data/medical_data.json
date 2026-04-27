@@ -1,0 +1,2415 @@
+[
+  {
+    "doenca": "Gripe (Influenza)",
+    "sintomas": [
+      "Febre alta",
+      "calafrios",
+      "tosse seca",
+      "dor de garganta",
+      "mialgia (dores musculares)",
+      "cefaleia (dor de cabeca)",
+      "prostracao",
+      "coriza",
+      "ardor nos olhos"
+    ],
+    "tratamento": [
+      "Repouso",
+      "hidratacao abundante",
+      "uso de antipireticos e analgesicos (paracetamol ou dipirona)",
+      "antivirais (oseltamivir) em casos especificos sob orientacao medica"
+    ]
+  },
+  {
+    "doenca": "Dengue",
+    "sintomas": [
+      "Febre alta subita",
+      "dor retro-orbitaria (atras dos olhos)",
+      "mialgia intensa",
+      "artralgia (dor nas articulacoes)",
+      "exantema (manchas vermelhas)",
+      "prurido",
+      "fadiga",
+      "nausea",
+      "vomitos"
+    ],
+    "tratamento": [
+      "Hidratacao oral ou venosa",
+      "analgesicos e antipireticos (paracetamol)",
+      "repouso. ATENCAO: Evitar AAS e anti-inflamatorios nao esteroidais (AINEs) pelo risco de hemorragia"
+    ]
+  },
+  {
+    "doenca": "COVID-19",
+    "sintomas": [
+      "Febre",
+      "tosse seca ou com catarro",
+      "cansaco extremo",
+      "perda de paladar (ageusia)",
+      "perda de olfato (anosmia)",
+      "dor de garganta",
+      "falta de ar (dispneia)",
+      "diarreia",
+      "congestao nasal"
+    ],
+    "tratamento": [
+      "Isolamento",
+      "repouso",
+      "hidratacao",
+      "medicamentos sintomaticos (analgesicos)",
+      "monitoramento da saturacao de oxigenio",
+      "oxigenoterapia ou ventilacao mecanica em casos graves"
+    ]
+  },
+  {
+    "doenca": "Sarampo",
+    "sintomas": [
+      "Febre alta",
+      "tosse persistente",
+      "coriza",
+      "conjuntivite (olhos vermelhos e lacrimejantes)",
+      "fotofobia",
+      "manchas de Koplik (pequenos pontos brancos na mucosa bucal)",
+      "exantema maculopapular avermelhado"
+    ],
+    "tratamento": [
+      "Repouso",
+      "hidratacao",
+      "suporte nutricional",
+      "suplementacao de Vitamina A para prevenir complicacoes graves e cegueira",
+      "tratamento de infeccoes secundarias com antibioticos"
+    ]
+  },
+  {
+    "doenca": "Varicela (Catapora)",
+    "sintomas": [
+      "Febre baixa",
+      "mal-estar",
+      "inapetencia",
+      "cefaleia",
+      "exantema vesicular (bolhas com liquido que causam coceira intensa)",
+      "crostas",
+      "irritabilidade"
+    ],
+    "tratamento": [
+      "Antihistaminicos para aliviar a coceira",
+      "antipireticos (evitar AAS)",
+      "higiene rigorosa da pele para evitar infeccao bacteriana secundaria",
+      "antivirais (aciclovir) em casos de risco"
+    ]
+  },
+  {
+    "doenca": "Zika Virus",
+    "sintomas": [
+      "Febre baixa ou ausencia de febre",
+      "exantema pruriginoso (manchas vermelhas que cocam)",
+      "conjuntivite nao purulenta",
+      "artralgia leve",
+      "edema periarticular",
+      "cefaleia",
+      "mialgia"
+    ],
+    "tratamento": [
+      "Repouso",
+      "hidratacao",
+      "analgesicos e antihistaminicos para o prurido. Monitoramento especial em gestantes devido ao risco de microcefalia fetal"
+    ]
+  },
+  {
+    "doenca": "Chikungunya",
+    "sintomas": [
+      "Febre alta subita",
+      "artralgia intensa e incapacitante (dores nas articulacoes)",
+      "edema articular",
+      "exantema",
+      "cefaleia",
+      "mialgia",
+      "fadiga extrema"
+    ],
+    "tratamento": [
+      "Repouso",
+      "hidratacao",
+      "analgesicos (paracetamol)",
+      "fisioterapia para sequelas articulares cronicas. Evitar AINEs na fase aguda"
+    ]
+  },
+  {
+    "doenca": "Febre Amarela",
+    "sintomas": [
+      "Febre alta",
+      "calafrios",
+      "cefaleia intensa",
+      "mialgia (especialmente nas costas)",
+      "nausea",
+      "vomitos",
+      "ictericia (pele e olhos amarelados)",
+      "oliguria (baixa producao de urina)",
+      "hemorragias"
+    ],
+    "tratamento": [
+      "Internacao hospitalar",
+      "repouso",
+      "hidratacao venosa",
+      "controle de hemorragias",
+      "suporte em UTI para casos graves com falencia renal ou hepatica"
+    ]
+  },
+  {
+    "doenca": "Malaria",
+    "sintomas": [
+      "Febre alta com paroxismos (ciclos de calafrios",
+      "calor e suor)",
+      "cefaleia",
+      "mialgia",
+      "nausea",
+      "vomitos",
+      "anemia",
+      "esplenomegalia (aumento do baco)",
+      "ictericia"
+    ],
+    "tratamento": [
+      "Esquemas especificos de antimalaricos (Artemeter + Lumefantrina",
+      "Cloroquina",
+      "Primaquina) dependendo da especie de Plasmodium e gravidade"
+    ]
+  },
+  {
+    "doenca": "Leptospirose",
+    "sintomas": [
+      "Febre alta subita",
+      "cefaleia",
+      "mialgia intensa (principalmente nas panturrilhas)",
+      "sufusoes conjuntivais",
+      "nausea",
+      "vomitos",
+      "ictericia rubinica",
+      "insuficiencia renal",
+      "hemorragia pulmonar"
+    ],
+    "tratamento": [
+      "Antibioticoterapia precoce (Doxiciclina",
+      "Penicilina G cristalina ou Ceftriaxona)",
+      "hidratacao rigorosa",
+      "suporte renal (dialise se necessario)"
+    ]
+  },
+  {
+    "doenca": "Tuberculose",
+    "sintomas": [
+      "Tosse persistente por mais de 3 semanas (seca ou com catarro)",
+      "hemoptise (escarro com sangue)",
+      "febre vespertina",
+      "sudorese noturna",
+      "emagrecimento",
+      "inapetencia",
+      "cansaco"
+    ],
+    "tratamento": [
+      "Esquema RIPE (Rifampicina",
+      "Isoniazida",
+      "Pirazinamida e Etambutol) por no minimo 6 meses. O tratamento nao deve ser interrompido para evitar resistencia"
+    ]
+  },
+  {
+    "doenca": "Hanseniase",
+    "sintomas": [
+      "Manchas esbranquicadas ou avermelhadas com perda de sensibilidade ao calor",
+      "dor e tato",
+      "dormencia",
+      "fraqueza muscular",
+      "nervos espessados e doloridos",
+      "nodulos"
+    ],
+    "tratamento": [
+      "Poliquimioterapia (PQT) com Rifampicina",
+      "Dapsona e Clofazimina. O tempo de tratamento varia de 6 a 12 meses conforme a classificacao operacional"
+    ]
+  },
+  {
+    "doenca": "Aids (HIV)",
+    "sintomas": [
+      "Febre",
+      "emagrecimento rapido",
+      "diarreia cronica",
+      "candidiase oral persistente",
+      "linfadenopatia (ingua)",
+      "infeccoes oportunistas (pneumocistose",
+      "toxoplasmose cerebral",
+      "sarcoma de Kaposi)"
+    ],
+    "tratamento": [
+      "Terapia Antirretroviral (TARV) combinada para controle da carga viral e restauracao do sistema imunologico (linfocitos CD4+)",
+      "profilaxia de infeccoes oportunistas"
+    ]
+  },
+  {
+    "doenca": "Hepatite B",
+    "sintomas": [
+      "Cansaco",
+      "tontura",
+      "nausea",
+      "vomitos",
+      "febre",
+      "dor abdominal",
+      "ictericia",
+      "urina escura (coluria)",
+      "fezes claras (acolia fecal)",
+      "pode evoluir para cirrose ou cancer de figado"
+    ],
+    "tratamento": [
+      "Repouso",
+      "dieta pobre em gorduras",
+      "abstinencia de alcool. Casos cronicos podem exigir antivirais especificos (Tenofovir",
+      "Entecavir) e monitoramento hepatico"
+    ]
+  },
+  {
+    "doenca": "Hepatite C",
+    "sintomas": [
+      "Geralmente assintomatica na fase aguda. Na fase cronica: cansaco",
+      "ictericia",
+      "ascite (barriga d'agua)",
+      "varizes esofagicas",
+      "confusao mental (encefalopatia hepatica)"
+    ],
+    "tratamento": [
+      "Antivirais de acao direta (DAA) como Sofosbuvir e Daclatasvir",
+      "que apresentam altas taxas de cura (acima de 95%) em tratamentos de 8 a 12 semanas"
+    ]
+  },
+  {
+    "doenca": "Colera",
+    "sintomas": [
+      "Diarreia aquosa profusa e indolor (aspecto de agua de arroz)",
+      "vomitos frequentes",
+      "desidratacao rapida",
+      "cibras musculares",
+      "olhos encovados",
+      "perda de turgor cutaneo"
+    ],
+    "tratamento": [
+      "Reidratacao oral imediata (SRO) ou venosa agressiva",
+      "antibioticoterapia (Doxiciclina ou Azitromicina) para reduzir a duracao da diarreia e a excrecao do vibriao"
+    ]
+  },
+  {
+    "doenca": "Leishmaniose Visceral (Calazar)",
+    "sintomas": [
+      "Febre prolongada",
+      "emagrecimento",
+      "palidez intensa (anemia)",
+      "hepatosplenomegalia (aumento do figado e baco)",
+      "tosse",
+      "diarreia",
+      "fraqueza"
+    ],
+    "tratamento": [
+      "Antimoniato de N-metil glucamina (Glucantime) ou Anfotericina B lipossomal (especialmente para casos graves",
+      "criancas ou idosos)",
+      "suporte nutricional"
+    ]
+  },
+  {
+    "doenca": "Doenca de Chagas",
+    "sintomas": [
+      "Fase aguda: febre",
+      "sinal de Romana (edema palpebral)",
+      "chagoma de inoculacao",
+      "miocardite. Fase cronica: megacolon",
+      "megaesofago",
+      "insuficiencia cardiaca",
+      "arritmias"
+    ],
+    "tratamento": [
+      "Benznidazol na fase aguda ou cronica recente. Na fase cronica tardia",
+      "o tratamento e direcionado as complicacoes cardiacas e digestivas"
+    ]
+  },
+  {
+    "doenca": "Meningite Meningococica",
+    "sintomas": [
+      "Febre alta subita",
+      "cefaleia intensa",
+      "rigidez de nuca (sinal de Brudzinski e Kerning)",
+      "vomitos em jato",
+      "petequias (manchas hemorragicas)",
+      "confusao mental",
+      "fotofobia"
+    ],
+    "tratamento": [
+      "Emergencia medica: antibioticoterapia venosa imediata (Ceftriaxona ou Penicilina G)",
+      "isolamento respiratorio",
+      "suporte hemodinamico e tratamento de edema cerebral"
+    ]
+  },
+  {
+    "doenca": "Botulismo",
+    "sintomas": [
+      "Paralisia flacida descendente",
+      "diplopia (visao dupla)",
+      "ptose palpebral",
+      "boca seca",
+      "disfagia (dificuldade de engolir)",
+      "disartria",
+      "insuficiencia respiratoria",
+      "sem febre"
+    ],
+    "tratamento": [
+      "Soro antibotulinico (SAB)",
+      "suporte ventilatorio (UTI)",
+      "lavagem gastrica e enemas para eliminar a toxina nao absorvida",
+      "cuidados intensivos de suporte"
+    ]
+  },
+  {
+    "doenca": "Sifilis",
+    "sintomas": [
+      "Primaria: cancro duro (ulcera indolor). Secundaria: manchas nas palmas e plantas",
+      "febre",
+      "mal-estar. Terciaria: lesoes cutaneas",
+      "osseas",
+      "cardiovasculares e neurologicas"
+    ],
+    "tratamento": [
+      "Penicilina G Benzatina (Bengetacil) em doses que variam conforme o estagio da doenca. Parceiros sexuais tambem devem ser tratados para evitar re-infeccao"
+    ]
+  },
+  {
+    "doenca": "Gonorreia",
+    "sintomas": [
+      "Corrimento uretral purulento (amarelado)",
+      "disuria (dor ao urinar)",
+      "dor e edema nos testiculos. Em mulheres: cervicite",
+      "dor pelvica",
+      "corrimento vaginal"
+    ],
+    "tratamento": [
+      "Antibioticoterapia combinada (geralmente Ceftriaxona IM + Azitromicina VO) para cobrir tambem possivel infeccao por Clamidia",
+      "tratamento de parceiros"
+    ]
+  },
+  {
+    "doenca": "Pneumonia Bacteriana",
+    "sintomas": [
+      "Febre alta",
+      "calafrios",
+      "tosse com catarro purulento ou ferruginoso",
+      "dor toracica pleuritica (que piora ao respirar)",
+      "falta de ar",
+      "prostracao",
+      "estertores na ausculta"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Amoxicilina",
+      "Azitromicina",
+      "Levofloxacino ou Ceftriaxona conforme a gravidade)",
+      "hidratacao",
+      "analgesicos",
+      "oxigenoterapia se necessario"
+    ]
+  },
+  {
+    "doenca": "Asma Bronquica",
+    "sintomas": [
+      "Dispneia (falta de ar)",
+      "chiado no peito (sibilos)",
+      "tosse (geralmente noturna ou ao acordar)",
+      "opressao toracica",
+      "sintomas desencadeados por alergicos ou exercicio"
+    ],
+    "tratamento": [
+      "Broncodilatadores de acao rapida (salbutamol) para crises",
+      "corticosteroides inalatorios para controle cronico",
+      "evitar gatilhos ambientais"
+    ]
+  },
+  {
+    "doenca": "Diabetes Mellitus Tipo 1",
+    "sintomas": [
+      "Poliuria (excesso de urina)",
+      "polidipsia (sede excessiva)",
+      "polifagia (fome excessiva)",
+      "perda de peso inexplicavel",
+      "fadiga",
+      "visao turva",
+      "cetoacidose diabetica"
+    ],
+    "tratamento": [
+      "Insulinoterapia vitalicia (insulinas basal e bolus)",
+      "monitoramento constante da glicemia capilar",
+      "dieta equilibrada e contagem de carboidratos"
+    ]
+  },
+  {
+    "doenca": "Hipertensao Arterial",
+    "sintomas": [
+      "Muitas vezes assintomatica. Sintomas de crise: cefaleia occipital",
+      "tontura",
+      "visao turva",
+      "zumbido no ouvido",
+      "dor no peito",
+      "palpitações",
+      "falta de ar"
+    ],
+    "tratamento": [
+      "Mudanca no estilo de vida (dieta DASH",
+      "reducao de sodio",
+      "exercicios) e anti-hipertensivos (IECA",
+      "BRA",
+      "diureticos",
+      "bloqueadores de canais de calcio)"
+    ]
+  },
+  {
+    "doenca": "Infarto Agudo do Miocardio",
+    "sintomas": [
+      "Dor retroesternal intensa (aperto ou queimacao) que pode irradiar para braco esquerdo",
+      "mandibula ou dorso",
+      "sudorese fria",
+      "nausea",
+      "vomito",
+      "falta de ar"
+    ],
+    "tratamento": [
+      "Emergencia: AAS",
+      "clopidogrel",
+      "nitratos",
+      "morfina",
+      "oxigenio. Reperfusao imediata via angioplastia coronaria (stent) ou tromboliticos venosos"
+    ]
+  },
+  {
+    "doenca": "AVC Isquemico",
+    "sintomas": [
+      "Perda subita de forca ou sensibilidade em um lado do corpo (hemiparesia)",
+      "desvio da rima labial",
+      "dificuldade na fala (afasia ou disartria)",
+      "perda de visao"
+    ],
+    "tratamento": [
+      "Trombolise venosa (rtPA) se dentro da janela de tempo (ate 4",
+      "5h)",
+      "controle da pressao arterial",
+      "antiagregantes plaquetarios",
+      "reabilitacao com fisioterapia"
+    ]
+  },
+  {
+    "doenca": "Depressao Maior",
+    "sintomas": [
+      "Tristeza profunda persistente",
+      "anedonia (perda de interesse)",
+      "alteracoes no sono e apetite",
+      "fadiga",
+      "sentimentos de culpa ou inutilidade",
+      "pensamentos suicidas"
+    ],
+    "tratamento": [
+      "Psicoterapia (TCC)",
+      "medicamentos antidepressivos (ISRS",
+      "IRSN)",
+      "atividade fisica",
+      "suporte social e",
+      "em casos graves",
+      "internacao ou eletroconvulsoterapia"
+    ]
+  },
+  {
+    "doenca": "Transtorno de Ansiedade Generalizada",
+    "sintomas": [
+      "Preocupacao excessiva e persistente",
+      "inquietacao",
+      "irritabilidade",
+      "tensao muscular",
+      "dificuldade de concentracao",
+      "disturbios do sono",
+      "palpitacoes",
+      "sudorese"
+    ],
+    "tratamento": [
+      "Psicoterapia",
+      "ansioliticos (benzodiazepinicos para curto prazo)",
+      "antidepressivos para controle a longo prazo",
+      "tecnicas de relaxamento e higiene do sono"
+    ]
+  },
+  {
+    "doenca": "Difteria",
+    "sintomas": [
+      "Placas pseudomembranosas cinzentas nas amigdalas e faringe",
+      "dor de garganta",
+      "febre baixa",
+      "edema no pescoco (pescoco de touro)",
+      "prostracao",
+      "risco de asfixia"
+    ],
+    "tratamento": [
+      "Soro Antidifterico (SAD)",
+      "antibioticoterapia (Penicilina ou Eritromicina)",
+      "isolamento",
+      "repouso rigoroso devido ao risco de miocardite toxica"
+    ]
+  },
+  {
+    "doenca": "Coqueluche",
+    "sintomas": [
+      "Tosse seca paroxistica (em acessos)",
+      "guincho inspiratorio",
+      "vomitos pos-tosse",
+      "cianose durante a tosse",
+      "fase catarral seguida de fase paroxistica longa"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Azitromicina ou Claritromicina) para reduzir a transmissibilidade",
+      "suporte respiratorio",
+      "hidratacao e isolamento respiratorio"
+    ]
+  },
+  {
+    "doenca": "Raiva Humana",
+    "sintomas": [
+      "Mal-estar",
+      "febre",
+      "parestesia no local da mordedura",
+      "hidrofobia (espasmos ao tentar beber agua)",
+      "aerofobia",
+      "agitacao psicomotora",
+      "paralisia",
+      "coma e obito"
+    ],
+    "tratamento": [
+      "Doenca quase 100% letal. Profilaxia pos-exposicao imediata com vacina e soro antirrabico. Protocolo de Recife/Milwaukee em casos confirmados"
+    ]
+  },
+  {
+    "doenca": "Esquistossomose",
+    "sintomas": [
+      "Fase aguda: febre",
+      "dor abdominal",
+      "diarreia",
+      "dermatite cercariana. Fase cronica: hepatosplenomegalia",
+      "ascite",
+      "varizes esofagicas (barriga d'agua)"
+    ],
+    "tratamento": [
+      "Praziquantel em dose unica. Tratamento das complicacoes da hipertensao portal (esclerose de varizes",
+      "cirurgia) em casos avancados"
+    ]
+  },
+  {
+    "doenca": "Ancilostomiase",
+    "sintomas": [
+      "Dermatite no local da penetracao das larvas",
+      "tosse",
+      "dor abdominal",
+      "diarreia",
+      "anemia ferropriva intensa (palidez)",
+      "geofagia (vontade de comer terra)"
+    ],
+    "tratamento": [
+      "Anti-helminticos (Albendazol ou Mebendazol)",
+      "suplementacao de ferro para tratar a anemia",
+      "saneamento basico e uso de calcados"
+    ]
+  },
+  {
+    "doenca": "Ascaridiase",
+    "sintomas": [
+      "Dor abdominal",
+      "nausea",
+      "vomitos",
+      "diarreia",
+      "presenca de vermes nas fezes",
+      "tosse",
+      "febre",
+      "eosinofilia (Sindrome de Loeffler)",
+      "obstrucao intestinal"
+    ],
+    "tratamento": [
+      "Anti-helminticos (Albendazol",
+      "Mebendazol ou Levamizol). Em caso de obstrucao intestinal: Piperazina e oleo mineral",
+      "ou cirurgia se necessario"
+    ]
+  },
+  {
+    "doenca": "Amebiase",
+    "sintomas": [
+      "Diarreia com muco e sangue (disenteria)",
+      "dor abdominal em colica",
+      "tenesmo (vontade constante de evacuar)",
+      "febre",
+      "pode causar abscesso hepatico"
+    ],
+    "tratamento": [
+      "Amebicidas teciduais (Metronidazol ou Tinidazol) seguidos de amebicidas luminais (Teclozam ou Etofamida) para eliminar cistos residuais"
+    ]
+  },
+  {
+    "doenca": "Giardiase",
+    "sintomas": [
+      "Diarreia esteatorreica (fezes gordurosas e fétidas)",
+      "distensao abdominal",
+      "flatulencia",
+      "dor epigastrica",
+      "perda de peso",
+      "ma absorcao de nutrientes"
+    ],
+    "tratamento": [
+      "Metronidazol",
+      "Tinidazol ou Secnidazol. Higiene pessoal rigorosa e tratamento da agua para evitar a re-infeccao por cistos"
+    ]
+  },
+  {
+    "doenca": "Leptospirose Icterica (Doenca de Weil)",
+    "sintomas": [
+      "Triade de ictericia rubinica",
+      "insuficiencia renal aguda e hemorragias (principalmente pulmonar)",
+      "mialgia intensa em panturrilhas",
+      "febre alta"
+    ],
+    "tratamento": [
+      "Suporte em UTI",
+      "antibioticoterapia venosa (Ceftriaxona ou Penicilina)",
+      "dialise precoce",
+      "manejo hemodinamico e suporte ventilatorio"
+    ]
+  },
+  {
+    "doenca": "Hantavirose (Sindrome Cardiopulmonar)",
+    "sintomas": [
+      "Febre",
+      "mialgia",
+      "cefaleia",
+      "tosse",
+      "evolucao rapida para insuficiencia respiratoria aguda",
+      "edema pulmonar nao cardiogenico",
+      "hipotensao e choque"
+    ],
+    "tratamento": [
+      "Suporte ventilatorio precoce (UTI)",
+      "manejo cuidadoso de fluidos para evitar piora do edema pulmonar",
+      "monitoramento hemodinamico invasivo"
+    ]
+  },
+  {
+    "doenca": "Febre Maculosa",
+    "sintomas": [
+      "Febre alta",
+      "cefaleia",
+      "mialgia",
+      "exantema maculopapular que surge nos punhos e tornozelos e progride para o tronco",
+      "historia de contato com carrapatos"
+    ],
+    "tratamento": [
+      "Antibioticoterapia precoce com Doxiciclina (mesmo antes da confirmacao laboratorial)",
+      "suporte clinico. O atraso no tratamento aumenta a letalidade"
+    ]
+  },
+  {
+    "doenca": "Peste (Bubonica/Pneumonica)",
+    "sintomas": [
+      "Febre alta",
+      "calafrios",
+      "cefaleia",
+      "bubao (linfonodo muito doloroso e inflamado)",
+      "tosse com escarro sanguinolento (forma pneumonica)",
+      "sepse"
+    ],
+    "tratamento": [
+      "Antibioticoterapia imediata (Estreptomicina",
+      "Gentamicina ou Doxiciclina)",
+      "isolamento rigoroso para a forma pneumonica",
+      "controle de roedores e pulgas"
+    ]
+  },
+  {
+    "doenca": "Brucelose",
+    "sintomas": [
+      "Febre ondulante (que vai e vem)",
+      "sudorese profusa com odor caracteristico",
+      "cefaleia",
+      "artralgia",
+      "mialgia",
+      "fadiga",
+      "esplenomegalia",
+      "orquite"
+    ],
+    "tratamento": [
+      "Esquema prolongado de antibioticos (geralmente Doxiciclina + Rifampicina ou Estreptomicina) por 6 a 8 semanas para evitar recaidas"
+    ]
+  },
+  {
+    "doenca": "Cancro Mole",
+    "sintomas": [
+      "Ulceras genitais multiplas",
+      "dolorosas",
+      "com bordas irregulares e fundo purulento",
+      "linfadenopatia inguinal dolorosa que pode fistulizar (bubao)"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Azitromicina em dose unica",
+      "Ceftriaxona ou Ciprofloxacino)",
+      "higiene local",
+      "tratamento de parceiros sexuais"
+    ]
+  },
+  {
+    "doenca": "Donovanose",
+    "sintomas": [
+      "Lesoes cutaneo-mucosas progressivas",
+      "ulcerovegetantes",
+      "indolores",
+      "de cor vermelho-vivo",
+      "que sangram facilmente",
+      "localizadas na regiao genital ou anal"
+    ],
+    "tratamento": [
+      "Antibioticoterapia prolongada (Azitromicina",
+      "Doxiciclina ou Eritromicina) ate a cicatrizacao completa das lesoes",
+      "acompanhamento clinico"
+    ]
+  },
+  {
+    "doenca": "Linfogranuloma Venereo",
+    "sintomas": [
+      "Pequena papula ou ulcera fugaz",
+      "seguida de linfadenopatia inguinal ou femoral dolorosa (estagio do bubao)",
+      "proctite em alguns casos"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Doxiciclina por 21 dias ou Eritromicina)",
+      "aspiracao de bubaos flutuantes para evitar ruptura espontanea e cicatrizes"
+    ]
+  },
+  {
+    "doenca": "Herpes Genital",
+    "sintomas": [
+      "Pequenas vesiculas agrupadas sobre base eritematosa que se rompem formando ulceras rasas e dolorosas",
+      "ardor",
+      "prurido",
+      "febre e mal-estar"
+    ],
+    "tratamento": [
+      "Antivirais (Aciclovir",
+      "Valaciclovir ou Fanciclovir) para reduzir a duracao dos sintomas e a frequencia das recorrencias",
+      "abstinencia sexual na fase ativa"
+    ]
+  },
+  {
+    "doenca": "Candidiase Vulvovaginal",
+    "sintomas": [
+      "Prurido intenso",
+      "corrimento branco grumoso (aspecto de leite coalhado)",
+      "disuria",
+      "dispareunia (dor na relacao)",
+      "edema e eritema vulvar"
+    ],
+    "tratamento": [
+      "Antifungicos locais (nistatina",
+      "miconazol",
+      "clotrimazol) ou sistemicos (fluconazol em dose unica)",
+      "controle de fatores predisponentes como diabetes"
+    ]
+  },
+  {
+    "doenca": "Tricomoniase",
+    "sintomas": [
+      "Corrimento vaginal abundante",
+      "amarelado ou esverdeado",
+      "bolhoso e fetido",
+      "prurido",
+      "colo do utero com aspecto de morango (colpite focal)"
+    ],
+    "tratamento": [
+      "Metronidazol ou Tinidazol em dose unica ou esquema de 7 dias. Tratamento obrigatorio do parceiro sexual para evitar a re-infeccao"
+    ]
+  },
+  {
+    "doenca": "Erisipela",
+    "sintomas": [
+      "Placa eritematosa (vermelha) brilhante",
+      "dolorosa",
+      "com bordas nitidas e elevadas",
+      "calor local",
+      "febre",
+      "calafrios",
+      "geralmente nos membros inferiores"
+    ],
+    "tratamento": [
+      "Repouso com membro elevado",
+      "antibioticoterapia (Penicilina",
+      "Amoxicilina ou Cefalexina)",
+      "tratamento da porta de entrada (ex. frieiras)"
+    ]
+  },
+  {
+    "doenca": "Escabiose (Sarna)",
+    "sintomas": [
+      "Prurido intenso que piora a noite",
+      "lesoes papulares",
+      "tuneis lineares na pele",
+      "localizadas em dobras",
+      "dedos",
+      "punhos e cintura"
+    ],
+    "tratamento": [
+      "Permetrina 5% aplicada em todo o corpo (do pescoco para baixo)",
+      "lavagem de roupas de cama e banho",
+      "tratamento simultaneo de todos os contatos domiciliares"
+    ]
+  },
+  {
+    "doenca": "Pediculose (Piolho)",
+    "sintomas": [
+      "Prurido intenso no couro cabeludo",
+      "presenca de lendeas (ovos) presas aos fios de cabelo",
+      "escoriacoes por cocadura",
+      "as vezes linfadenopatia cervical"
+    ],
+    "tratamento": [
+      "Permetrina 1% em locao ou shampoo",
+      "remocao manual de lendeas com pente fino",
+      "lavagem de objetos pessoais",
+      "tratamento de contatos proximos"
+    ]
+  },
+  {
+    "doenca": "Tenia Solium/Saginata",
+    "sintomas": [
+      "Geralmente assintomatica",
+      "mas pode causar dor abdominal",
+      "nausea",
+      "alteracoes do apetite",
+      "perda de peso",
+      "eliminacao de proglotes nas fezes"
+    ],
+    "tratamento": [
+      "Praziquantel ou Niclosamida em dose unica. Medidas de saneamento e inspecao de carnes sao fundamentais para a prevencao"
+    ]
+  },
+  {
+    "doenca": "Cisticercose Humana",
+    "sintomas": [
+      "Nodulos subcutaneos",
+      "crises convulsivas",
+      "cefaleia",
+      "hipertensao intracraniana",
+      "alteracoes visuais (dependendo da localizacao dos cisticercos)"
+    ],
+    "tratamento": [
+      "Praziquantel ou Albendazol associados a corticosteroides para reduzir a inflamacao",
+      "anticonvulsivantes",
+      "cirurgia em casos especificos"
+    ]
+  },
+  {
+    "doenca": "Hidatidose (Cisto Hidatico)",
+    "sintomas": [
+      "Cistos de crescimento lento no figado ou pulmoes",
+      "dor abdominal",
+      "ictericia (se biliar)",
+      "tosse",
+      "hemoptise",
+      "risco de choque anafilatico se o cisto romper"
+    ],
+    "tratamento": [
+      "Cirurgia para remocao do cisto (tecnica PAIR em alguns casos)",
+      "associada ao uso de Albendazol antes e depois do procedimento"
+    ]
+  },
+  {
+    "doenca": "Ancilostomiase Larva Migrans (Bicho Geografico)",
+    "sintomas": [
+      "Lesoes lineares serpiginosas",
+      "eritematosas e salientes na pele que progridem alguns milimetros por dia",
+      "prurido intenso",
+      "geralmente nos pes ou nadegas"
+    ],
+    "tratamento": [
+      "Tiabendazol topico ou Albendazol/Ivermectina por via oral em casos de lesoes multiplas ou extensas",
+      "evitar contato da pele com areia contaminada"
+    ]
+  },
+  {
+    "doenca": "Estrongiloidiase",
+    "sintomas": [
+      "Dermatite pruriginosa",
+      "tosse",
+      "dor epigastrica (semelhante a ulcera)",
+      "diarreia",
+      "em casos de hiperinfeccao: sepse por bacterias intestinais"
+    ],
+    "tratamento": [
+      "Ivermectina em dose unica ou Albendazol por 3 dias. Importante tratar antes de iniciar corticoides para evitar a sindrome de hiperinfeccao"
+    ]
+  },
+  {
+    "doenca": "Toxoplasmose",
+    "sintomas": [
+      "Geralmente assintomatica. Forma linfonodal: febre",
+      "inguas. Forma ocular: coriorretinite. Congenita: microcefalia",
+      "calcificacoes cerebrais",
+      "coriorretinite"
+    ],
+    "tratamento": [
+      "Espiramicina (em gestantes) ou combinacao de Sulfadiazina + Pirimetamina + Acido Folinico. O tratamento e indicado em casos agudos",
+      "oculares ou congenitos"
+    ]
+  },
+  {
+    "doenca": "Criptococose",
+    "sintomas": [
+      "Meningite subaguda ou cronica",
+      "cefaleia",
+      "febre",
+      "rigidez de nuca",
+      "alteracoes visuais",
+      "lesoes cutaneas",
+      "pneumonia em pacientes imunodeprimidos"
+    ],
+    "tratamento": [
+      "Anfotericina B associada a Fluconazol ou 5-Fluorcitosina na fase de inducao",
+      "seguida de manutencao prolongada com Fluconazol"
+    ]
+  },
+  {
+    "doenca": "Histoplasmose",
+    "sintomas": [
+      "Febre",
+      "tosse",
+      "dor toracica",
+      "dispneia",
+      "emagrecimento",
+      "hepatoesplenomegalia e lesoes cutaneo-mucosas na forma disseminada (comum em pacientes com Aids)"
+    ],
+    "tratamento": [
+      "Itraconazol para formas leves a moderadas",
+      "Anfotericina B para formas graves ou disseminadas",
+      "suporte respiratorio se necessario"
+    ]
+  },
+  {
+    "doenca": "Paracoccidioidomicose",
+    "sintomas": [
+      "Lesoes ulceradas na boca e faringe",
+      "linfadenopatia cervical (ingua)",
+      "tosse",
+      "dispneia",
+      "lesoes cutaneas",
+      "emagrecimento",
+      "comprometimento adrenal"
+    ],
+    "tratamento": [
+      "Itraconazol por tempo prolongado (meses a anos) ou Sulfametoxazol + Trimetoprima (Bactrim). Anfotericina B em casos graves"
+    ]
+  },
+  {
+    "doenca": "Esporotricose",
+    "sintomas": [
+      "Nodulos cutaneos que seguem o trajeto linfatico (forma linfocutanea)",
+      "ulceras que nao cicatrizam",
+      "geralmente apos contato com gatos ou vegetais"
+    ],
+    "tratamento": [
+      "Itraconazol e o tratamento de escolha. Solucao saturada de Iodeto de Potassio e uma alternativa. Tratamento deve seguir ate a cura clinica"
+    ]
+  },
+  {
+    "doenca": "Micoses Superficiais (Tineas)",
+    "sintomas": [
+      "Manchas circulares com bordas descamativas e pruriginosas (tinea corporis)",
+      "descamacao e prurido entre dedos (tinea pedis)",
+      "queda de cabelo (tinea capitis)"
+    ],
+    "tratamento": [
+      "Antifungicos topicos (terbinafina",
+      "cetoconazol",
+      "clotrimazol). Tinea capitis e onicomicoses (unhas) exigem antifungicos orais"
+    ]
+  },
+  {
+    "doenca": "Escarlatina",
+    "sintomas": [
+      "Febre",
+      "dor de garganta",
+      "exantema micropapular (pele em lixa)",
+      "lingua em morango",
+      "palidez perioral (sinal de Filatov)",
+      "descamacao laminar posterior"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Penicilina V",
+      "Amoxicilina ou Eritromicina) para erradicar o Estreptococo e prevenir febre reumatica e glomerulonefrite"
+    ]
+  },
+  {
+    "doenca": "Febre Reumatica",
+    "sintomas": [
+      "Artrite migratoria de grandes articulacoes",
+      "cardite (sopros",
+      "insuficiencia cardiaca)",
+      "coreia de Sydenham",
+      "nodulos subcutaneos",
+      "eritema marginado"
+    ],
+    "tratamento": [
+      "Tratamento da infeccao estreptococica",
+      "anti-inflamatorios (AAS ou corticoides)",
+      "profilaxia secundaria com Penicilina G Benzatina a cada 21 dias"
+    ]
+  },
+  {
+    "doenca": "Glomerulonefrite Pos-Estreptococica",
+    "sintomas": [
+      "Edema (inchaco)",
+      "hipertensao arterial",
+      "hematuria (urina cor de cha ou coca-cola)",
+      "oliguria",
+      "apos infeccao de garganta ou pele"
+    ],
+    "tratamento": [
+      "Repouso",
+      "restricao de sal e liquidos",
+      "diureticos",
+      "anti-hipertensivos. O prognostico e geralmente bom em criancas"
+    ]
+  },
+  {
+    "doenca": "Erisipeloide",
+    "sintomas": [
+      "Lesao cutanea avermelhada-violacea",
+      "bem delimitada",
+      "dolorosa",
+      "geralmente nas maos",
+      "apos manipulacao de carne",
+      "peixe ou aves contaminadas"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Penicilina",
+      "Amoxicilina ou Eritromicina). A lesao costuma ser autolimitada",
+      "mas o tratamento acelera a cura"
+    ]
+  },
+  {
+    "doenca": "Listeriose",
+    "sintomas": [
+      "Febre",
+      "dores musculares",
+      "nausea",
+      "diarreia. Em gestantes: risco de aborto ou infeccao neonatal grave. Pode causar meningite em idosos e imunodeprimidos"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Ampicilina associada ou nao a Gentamicina). Evitar consumo de queijos nao pasteurizados e embutidos por gestantes"
+    ]
+  },
+  {
+    "doenca": "Carbunculo (Antraz)",
+    "sintomas": [
+      "Cutaneo: pustula maligna (escarra negra indolor). Respiratorio: febre",
+      "dispneia grave",
+      "choque. Gastrointestinal: dor abdominal",
+      "vomitos sanguinolentos"
+    ],
+    "tratamento": [
+      "Antibioticoterapia imediata (Ciprofloxacino",
+      "Doxiciclina ou Penicilina G). A forma respiratoria exige tratamento intensivo e tem alta letalidade"
+    ]
+  },
+  {
+    "doenca": "Tularemia",
+    "sintomas": [
+      "Febre",
+      "ulcera cutanea no local da picada ou contato",
+      "linfadenopatia regional dolorosa",
+      "pneumonia (se inalado)",
+      "dor de garganta e vomitos"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Estreptomicina ou Gentamicina). Doxiciclina e Ciprofloxacino sao alternativas. Evitar contato com animais silvestres"
+    ]
+  },
+  {
+    "doenca": "Febre por Mordedura de Rato",
+    "sintomas": [
+      "Febre",
+      "calafrios",
+      "cefaleia",
+      "mialgia",
+      "exantema maculopapular ou petequial",
+      "artrite migratoria",
+      "historia de mordida de roedor"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Penicilina G ou Doxiciclina). Sem tratamento",
+      "pode evoluir com complicacoes cardiacas e neurologicas"
+    ]
+  },
+  {
+    "doenca": "Febre Q",
+    "sintomas": [
+      "Febre alta",
+      "calafrios",
+      "cefaleia intensa",
+      "mialgia",
+      "mal-estar",
+      "pneumonia atipica",
+      "hepatite",
+      "endocardite cronica em alguns casos"
+    ],
+    "tratamento": [
+      "Antibioticoterapia com Doxiciclina por 14 dias na fase aguda. A endocardite cronica exige tratamento por meses com Doxiciclina e Hidroxicloroquina"
+    ]
+  },
+  {
+    "doenca": "Psitacose (Febre dos Papagaios)",
+    "sintomas": [
+      "Febre",
+      "cefaleia intensa",
+      "tosse seca",
+      "esplenomegalia",
+      "pneumonia atipica",
+      "historia de contato com aves (papagaios",
+      "pombos",
+      "calopsitas)"
+    ],
+    "tratamento": [
+      "Antibioticoterapia com Doxiciclina ou Eritromicina. Evitar a inalacao de poeira de gaiolas e fezes de aves infectadas"
+    ]
+  },
+  {
+    "doenca": "Ornitose",
+    "sintomas": [
+      "Quadro clinico identico a Psitacose",
+      "mas transmitido por aves que nao pertencem a familia dos psitacideos (como pombos e aves marinhas)"
+    ],
+    "tratamento": [
+      "Antibioticoterapia com Doxiciclina ou Eritromicina. Medidas de controle ambiental e higiene no manejo de aves"
+    ]
+  },
+  {
+    "doenca": "Febre de Lassa",
+    "sintomas": [
+      "Febre progressiva",
+      "mal-estar",
+      "cefaleia",
+      "dor de garganta",
+      "mialgia",
+      "dor toracica",
+      "nausea",
+      "vomitos",
+      "diarreia",
+      "edema facial",
+      "hemorragias",
+      "surdez"
+    ],
+    "tratamento": [
+      "Suporte clinico rigoroso",
+      "antiviral Ribavirina (mais eficaz se iniciado precocemente)",
+      "isolamento de alto isolamento (doenca viral hemorragica)"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica Ebola/Marburg",
+    "sintomas": [
+      "Febre alta subita",
+      "cefaleia",
+      "mialgia",
+      "dor abdominal",
+      "vomitos",
+      "diarreia",
+      "exantema",
+      "hemorragias internas e externas massivas",
+      "choque e falencia de orgaos"
+    ],
+    "tratamento": [
+      "Suporte intensivo (hidratacao",
+      "controle de disturbios eletroliticos e coagulacao)",
+      "anticorpos monoclonais especificos em alguns centros",
+      "isolamento rigoroso"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica por Virus Sabia (Brasil)",
+    "sintomas": [
+      "Febre",
+      "mialgia",
+      "cefaleia",
+      "astenia",
+      "dor abdominal",
+      "evolucao para manifestacoes hemorragicas",
+      "comprometimento hepatico e neurologico grave"
+    ],
+    "tratamento": [
+      "Suporte clinico intensivo",
+      "uso experimental de Ribavirina",
+      "isolamento de seguranca maxima. Transmitida por roedores silvestres"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica da Crimeia-Congo",
+    "sintomas": [
+      "Febre",
+      "mialgia",
+      "tontura",
+      "dor cervical",
+      "dor lombar",
+      "cefaleia",
+      "irritacao ocular",
+      "fotofobia",
+      "seguidos de nausea",
+      "vomitos",
+      "diarreia e hemorragias"
+    ],
+    "tratamento": [
+      "Suporte clinico",
+      "Ribavirina",
+      "controle de carrapatos (vetores) e cuidados rigorosos no manejo de sangue e tecidos de animais infectados"
+    ]
+  },
+  {
+    "doenca": "Febre do Vale do Rift",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "mialgia",
+      "dor lombar. Complicacoes: doenca ocular (perda de visao)",
+      "encefalite ou febre hemorragica com falencia hepatica"
+    ],
+    "tratamento": [
+      "Suporte clinico. Nao ha tratamento antiviral especifico comprovado. Prevencao via vacinacao de gado e controle de mosquitos"
+    ]
+  },
+  {
+    "doenca": "Encefalite Japonesa",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "vomitos",
+      "seguidos de alteracoes do estado mental",
+      "crises convulsivas",
+      "paralisias e coma. Alta taxa de sequelas neurologicas"
+    ],
+    "tratamento": [
+      "Suporte clinico",
+      "controle de edema cerebral e crises convulsivas. Nao ha antiviral especifico. Prevencao via vacinacao em areas endemicas"
+    ]
+  },
+  {
+    "doenca": "Encefalite do Nilo Ocidental",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "mialgia",
+      "exantema",
+      "linfadenopatia. Casos graves: meningite",
+      "encefalite ou paralisia flacida aguda (semelhante a poliomielite)"
+    ],
+    "tratamento": [
+      "Suporte clinico",
+      "manejo de complicacoes neurologicas. Prevencao via controle de mosquitos e protecao individual contra picadas"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro",
+    "sintomas": [
+      "Febre alta subita",
+      "cefaleia",
+      "mialgia",
+      "artralgia intensa e persistente (pode durar meses)",
+      "exantema maculopapular",
+      "dor retro-orbitaria"
+    ],
+    "tratamento": [
+      "Repouso",
+      "hidratacao",
+      "analgesicos e anti-inflamatorios para controle da dor articular. Semelhante a Chikungunya",
+      "mas transmitida em areas silvestres"
+    ]
+  },
+  {
+    "doenca": "Febre de Oropouche",
+    "sintomas": [
+      "Febre alta subita",
+      "cefaleia intensa",
+      "mialgia",
+      "artralgia",
+      "tontura",
+      "fotofobia",
+      "pode causar meningite asseptica. Sintomas podem recorrer apos alguns dias"
+    ],
+    "tratamento": [
+      "Repouso",
+      "hidratacao",
+      "analgesicos e antipireticos. Prevencao via controle do mosquito transmissor (Maruim) e uso de repelentes"
+    ]
+  },
+  {
+    "doenca": "Febre do Zika (Sindrome de Guillain-Barre)",
+    "sintomas": [
+      "Fraqueza muscular ascendente",
+      "arreflexia",
+      "parestesias",
+      "podendo evoluir para paralisia respiratoria",
+      "ocorrendo semanas apos infeccao pelo virus Zika"
+    ],
+    "tratamento": [
+      "Imunoglobulina venosa ou plasmaferese",
+      "suporte ventilatorio (UTI)",
+      "fisioterapia motora intensiva para reabilitacao"
+    ]
+  },
+  {
+    "doenca": "Microcefalia por Zika",
+    "sintomas": [
+      "Perimetro cefalico abaixo do normal ao nascimento",
+      "atraso no desenvolvimento neuropsicomotor",
+      "crises convulsivas",
+      "alteracoes visuais e auditivas"
+    ],
+    "tratamento": [
+      "Estimulacao precoce multiprofissional (fisioterapia",
+      "fonoaudiologia",
+      "terapia ocupacional)",
+      "controle de crises convulsivas",
+      "suporte familiar"
+    ]
+  },
+  {
+    "doenca": "Febre de Chikungunya (Fase Cronica)",
+    "sintomas": [
+      "Persistencia de dor e edema articular por mais de 3 meses",
+      "rigidez matinal",
+      "limitacao funcional",
+      "as vezes simulando Artrite Reumatoide"
+    ],
+    "tratamento": [
+      "Anti-inflamatorios",
+      "corticoides em doses baixas",
+      "medicamentos modificadores da doenca (como Metotrexato) em casos selecionados",
+      "fisioterapia"
+    ]
+  },
+  {
+    "doenca": "Dengue Grave (Choque)",
+    "sintomas": [
+      "Queda abrupta da pressao arterial",
+      "pulso rapido e fino",
+      "extremidades frias",
+      "oliguria",
+      "alteracao do nivel de consciencia",
+      "apos queda da febre"
+    ],
+    "tratamento": [
+      "Emergencia: reposicao volemica imediata e vigorosa com cristaloides venosos",
+      "monitoramento em UTI",
+      "suporte hemodinamico"
+    ]
+  },
+  {
+    "doenca": "Dengue com Sinais de Alarme",
+    "sintomas": [
+      "Dor abdominal intensa e continua",
+      "vomitos persistentes",
+      "hipotensao postural",
+      "hepatomegalia dolorosa",
+      "sangramento de mucosas",
+      "letargia",
+      "aumento do hematocrito"
+    ],
+    "tratamento": [
+      "Internacao hospitalar para hidratacao venosa imediata e monitoramento rigoroso para evitar a progressao para o choque"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica da Boliva (Virus Machupo)",
+    "sintomas": [
+      "Febre",
+      "mal-estar",
+      "cefaleia",
+      "mialgia",
+      "seguidos de petequias",
+      "sangramentos",
+      "tremores",
+      "crises convulsivas e choque. Transmitida por roedores"
+    ],
+    "tratamento": [
+      "Suporte clinico intensivo",
+      "plasma de convalescente (se disponivel)",
+      "Ribavirina. Medidas de controle de roedores em areas endemicas"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica da Argentina (Virus Junin)",
+    "sintomas": [
+      "Quadro clinico semelhante a Febre de Machupo. Apresenta fase prodromica seguida de manifestacoes hemorragicas e neurologicas graves"
+    ],
+    "tratamento": [
+      "Plasma de convalescente com titulos conhecidos de anticorpos e o tratamento de escolha",
+      "reduzindo drasticamente a letalidade"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica da Venezuela (Virus Guanarito)",
+    "sintomas": [
+      "Febre",
+      "mal-estar",
+      "cefaleia",
+      "dor de garganta",
+      "vomitos",
+      "diarreia",
+      "seguidos de manifestacoes hemorragicas e choque. Transmitida por roedores"
+    ],
+    "tratamento": [
+      "Suporte clinico intensivo",
+      "manejo de disturbios de coagulacao e hemodinamicos. Nao ha tratamento especifico estabelecido"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica de Lujo (Zambia/Africa do Sul)",
+    "sintomas": [
+      "Febre",
+      "mialgia",
+      "exantema",
+      "seguidos de edema facial",
+      "dor abdominal",
+      "diarreia e falencia multiorganica rapida. Alta letalidade"
+    ],
+    "tratamento": [
+      "Suporte clinico intensivo. O uso de Ribavirina foi relatado em casos de sobrevivencia",
+      "mas a evidencia e limitada"
+    ]
+  },
+  {
+    "doenca": "Meningite por Haemophilus influenzae tipo b",
+    "sintomas": [
+      "Febre alta",
+      "cefaleia",
+      "vomitos",
+      "rigidez de nuca",
+      "irritabilidade em lactentes",
+      "abaulamento de fontanela",
+      "pode deixar sequelas auditivas e motoras"
+    ],
+    "tratamento": [
+      "Antibioticoterapia venosa (Ceftriaxona)",
+      "corticosteroides (Dexametasona) antes da primeira dose de antibiotico para reduzir sequelas",
+      "suporte"
+    ]
+  },
+  {
+    "doenca": "Difteria Cutanea",
+    "sintomas": [
+      "Ulcera cutanea cronica",
+      "rasa",
+      "com bordas bem delimitadas e as vezes coberta por membrana acinzentada",
+      "geralmente nos membros"
+    ],
+    "tratamento": [
+      "Higiene local",
+      "antibioticoterapia (Eritromicina ou Penicilina)",
+      "vacinacao de bloqueio. Menor risco de complicacoes sistemicas que a forma faringea"
+    ]
+  },
+  {
+    "doenca": "Tetano Acidental",
+    "sintomas": [
+      "Hipertonia muscular",
+      "trismo (dificuldade de abrir a boca)",
+      "riso sardonico",
+      "opistotono (corpo em arco)",
+      "espasmos musculares desencadeados por estimulos"
+    ],
+    "tratamento": [
+      "Soro Antitetanico (SAT) ou Imunoglobulina (IGHAT)",
+      "limpeza do ferimento",
+      "antibioticos (Metronidazol ou Penicilina)",
+      "sedativos e bloqueadores neuromusculares"
+    ]
+  },
+  {
+    "doenca": "Tetano Neonatal (Mal de Sete Dias)",
+    "sintomas": [
+      "Dificuldade de succao",
+      "irritabilidade",
+      "choro constante",
+      "seguidos de rigidez muscular generalizada e espasmos ao toque ou luz",
+      "em recem-nascidos"
+    ],
+    "tratamento": [
+      "Cuidados em UTI neonatal",
+      "soro antitetanico",
+      "antibioticos",
+      "controle de espasmos",
+      "suporte nutricional e ventilatorio"
+    ]
+  },
+  {
+    "doenca": "Poliomielite (Paralisia Infantil)",
+    "sintomas": [
+      "Febre",
+      "mal-estar",
+      "seguidos de paralisia flacida aguda",
+      "assimetrica",
+      "com diminuicao ou ausencia de reflexos",
+      "acometendo principalmente membros inferiores"
+    ],
+    "tratamento": [
+      "Nao ha tratamento especifico. Suporte clinico",
+      "fisioterapia precoce para evitar deformidades",
+      "suporte ventilatorio se houver paralisia de musculos respiratorios"
+    ]
+  },
+  {
+    "doenca": "Sindrome Pos-Poliomielite",
+    "sintomas": [
+      "Surgimento de nova fraqueza muscular",
+      "fadiga",
+      "dor articular e muscular",
+      "decadas apos a recuperacao da poliomielite aguda"
+    ],
+    "tratamento": [
+      "Manejo da fadiga",
+      "fisioterapia suave (evitar excesso de esforco)",
+      "adaptacoes funcionais",
+      "suporte psicologico e controle da dor"
+    ]
+  },
+  {
+    "doenca": "Meningite Tuberculosa",
+    "sintomas": [
+      "Febre",
+      "cefaleia cronica",
+      "alteracoes de comportamento",
+      "paralisia de nervos cranianos",
+      "rigidez de nuca tardia",
+      "evolucao lenta e progressiva"
+    ],
+    "tratamento": [
+      "Esquema RIPE por 12 meses",
+      "associado a corticosteroides (Dexametasona ou Prednisona) nas primeiras semanas para reduzir a inflamacao e sequelas"
+    ]
+  },
+  {
+    "doenca": "Meningite Viral (Asseptica)",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "vomitos",
+      "rigidez de nuca leve",
+      "fotofobia",
+      "sintomas geralmente autolimitados e menos graves que a meningite bacteriana"
+    ],
+    "tratamento": [
+      "Tratamento sintomatico (analgesicos",
+      "antipireticos)",
+      "repouso",
+      "hidratacao. A maioria dos casos e causada por Enterovirus e nao requer antivirais"
+    ]
+  },
+  {
+    "doenca": "Mononucleose Infecciosa (Doenca do Beijo)",
+    "sintomas": [
+      "Febre",
+      "dor de garganta com placas",
+      "linfadenopatia generalizada (especialmente cervical)",
+      "esplenomegalia",
+      "fadiga intensa",
+      "as vezes exantema"
+    ],
+    "tratamento": [
+      "Repouso",
+      "analgesicos",
+      "antipireticos",
+      "evitar esportes de contato pelo risco de ruptura esplenica. Corticoides apenas em complicacoes graves"
+    ]
+  },
+  {
+    "doenca": "Caxumba (Parotidite Infecciosa)",
+    "sintomas": [
+      "Febre",
+      "dor e inchaco das glandulas salivares (principalmente parotidas)",
+      "dor ao mastigar ou engolir acidos. Complicacoes: orquite",
+      "meningite"
+    ],
+    "tratamento": [
+      "Repouso",
+      "analgesicos",
+      "antipireticos",
+      "higiene bucal",
+      "suporte suspensorio para testiculos em caso de orquite. Doenca geralmente autolimitada"
+    ]
+  },
+  {
+    "doenca": "Rubéola",
+    "sintomas": [
+      "Febre baixa",
+      "exantema maculopapular rosado que comeca na face",
+      "linfadenopatia retroauricular e cervical",
+      "artralgia (comum em mulheres)"
+    ],
+    "tratamento": [
+      "Tratamento sintomatico. O maior risco e a transmissao para gestantes",
+      "podendo causar a Sindrome da Rubeola Congenita no feto"
+    ]
+  },
+  {
+    "doenca": "Sindrome da Rubeola Congenita",
+    "sintomas": [
+      "Triade de catarata",
+      "surdez e cardiopatia congenita",
+      "alem de microcefalia",
+      "atraso mental e purpura trombocitopenica ao nascimento"
+    ],
+    "tratamento": [
+      "Acompanhamento multiprofissional",
+      "cirurgias cardiacas e oftalmologicas conforme necessidade",
+      "reabilitacao auditiva e estimulacao precoce"
+    ]
+  },
+  {
+    "doenca": "Varicela Hemorragica",
+    "sintomas": [
+      "Febre alta",
+      "vesiculas com conteudo hemorragico",
+      "petequias",
+      "equimoses",
+      "sangramentos de mucosas",
+      "comprometimento multiorganico",
+      "comum em imunodeprimidos"
+    ],
+    "tratamento": [
+      "Internacao",
+      "antivirais venosos (Aciclovir)",
+      "suporte hemodinamico",
+      "tratamento de disturbios de coagulacao e infeccoes secundarias"
+    ]
+  },
+  {
+    "doenca": "Herpes Zoster (Cobreiro)",
+    "sintomas": [
+      "Dor neuropatica intensa (queimacao)",
+      "seguida de vesiculas agrupadas sobre base eritematosa seguindo um dermatomo",
+      "unilateral",
+      "febre e mal-estar"
+    ],
+    "tratamento": [
+      "Antivirais (Aciclovir",
+      "Valaciclovir) iniciados precocemente",
+      "analgesicos potentes",
+      "cuidados locais",
+      "tratamento da neuralgia pos-herpetica se ocorrer"
+    ]
+  },
+  {
+    "doenca": "Neuralgia Pos-Herpetica",
+    "sintomas": [
+      "Dor persistente por mais de 3 meses no local onde ocorreu o Herpes Zoster",
+      "tipo queimação ou choque",
+      "hipersensibilidade ao toque (alodinia)"
+    ],
+    "tratamento": [
+      "Medicamentos para dor neuropatica (Gabapentina",
+      "Pregabalina",
+      "Amitriptilina)",
+      "adesivos de lidocaina",
+      "suporte psicologico para dor cronica"
+    ]
+  },
+  {
+    "doenca": "Tracoma",
+    "sintomas": [
+      "Lacrimejamento",
+      "fotofobia",
+      "sensacao de corpo estranho",
+      "evoluindo para cicatrizes na conjuntiva",
+      "cilios invertidos (triquiase) e cegueira"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Azitromicina em dose unica ou Tetraciclina topica)",
+      "cirurgia para correcao de triquiase",
+      "medidas de higiene facial"
+    ]
+  },
+  {
+    "doenca": "Escabiose Crostosa (Sarna Norueguesa)",
+    "sintomas": [
+      "Crostas espessas e extensas na pele contendo milhares de acaros",
+      "prurido pode ser leve ou ausente",
+      "altamente contagiosa",
+      "comum em imunodeprimidos"
+    ],
+    "tratamento": [
+      "Tratamento sistemico com Ivermectina associado a escabicidas topicos repetidos",
+      "isolamento do paciente",
+      "tratamento rigoroso do ambiente"
+    ]
+  },
+  {
+    "doenca": "Febre Tifoide",
+    "sintomas": [
+      "Febre alta prolongada",
+      "dor abdominal",
+      "constipacao ou diarreia",
+      "cefaleia",
+      "bradicardia relativa (sinal de Faget)",
+      "manchas roseas no tronco",
+      "esplenomegalia"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Ciprofloxacino",
+      "Ceftriaxona ou Azitromicina)",
+      "repouso",
+      "dieta leve",
+      "hidratacao. Vigilancia para perfuracao ou hemorragia intestinal"
+    ]
+  },
+  {
+    "doenca": "Paratifoide",
+    "sintomas": [
+      "Quadro clinico semelhante a Febre Tifoide",
+      "porem geralmente mais leve e de menor duracao",
+      "causado por Salmonella Paratyphi A",
+      "B ou C"
+    ],
+    "tratamento": [
+      "Antibioticoterapia conforme sensibilidade",
+      "suporte clinico. Medidas de prevencao sao as mesmas da Febre Tifoide (saneamento e higiene)"
+    ]
+  },
+  {
+    "doenca": "Shigelose (Disenteria Bacilar)",
+    "sintomas": [
+      "Febre",
+      "dor abdominal em colica",
+      "tenesmo",
+      "diarreia com muco",
+      "pus e sangue",
+      "pode causar desidratacao e convulsões em criancas"
+    ],
+    "tratamento": [
+      "Hidratacao",
+      "antibioticoterapia (Ciprofloxacino",
+      "Ceftriaxona ou Azitromicina) para reduzir a duracao e transmissibilidade. Evitar antidiarreicos"
+    ]
+  },
+  {
+    "doenca": "Salmonelose Nao Tifoide",
+    "sintomas": [
+      "Nausea",
+      "vomitos",
+      "dor abdominal",
+      "diarreia aquosa",
+      "febre",
+      "sintomas surgem 6 a 72h apos ingestao de alimento contaminado (ovos",
+      "carnes)"
+    ],
+    "tratamento": [
+      "Geralmente autolimitada",
+      "foco na hidratacao. Antibioticos indicados apenas para idosos",
+      "lactentes",
+      "imunodeprimidos ou em caso de bacteremia"
+    ]
+  },
+  {
+    "doenca": "Campilobacteriose",
+    "sintomas": [
+      "Diarreia (frequentemente sanguinolenta)",
+      "dor abdominal intensa",
+      "febre",
+      "nausea",
+      "vomitos. Associada ao consumo de aves mal cozidas"
+    ],
+    "tratamento": [
+      "Hidratacao. Antibioticoterapia (Azitromicina) indicada em casos graves",
+      "persistentes ou em pacientes de risco. Pode preceder a Sindrome de Guillain-Barre"
+    ]
+  },
+  {
+    "doenca": "Yersiniose",
+    "sintomas": [
+      "Diarreia",
+      "febre",
+      "dor abdominal (pode simular apendicite - pseudoapendicite)",
+      "artrite reativa e eritema nodoso como complicacoes pos-infecciosas"
+    ],
+    "tratamento": [
+      "Hidratacao. Antibioticos (Ciprofloxacino ou Bactrim) reservados para casos graves ou sistemicos. Transmitida por carne suina contaminada"
+    ]
+  },
+  {
+    "doenca": "Listeriose Neonatal",
+    "sintomas": [
+      "Sepse de inicio precoce ou meningite de inicio tardio",
+      "febre",
+      "irritabilidade",
+      "dificuldade respiratoria",
+      "exantema cutaneo (granulomatosis infantiseptica)"
+    ],
+    "tratamento": [
+      "Antibioticoterapia venosa intensiva (Ampicilina + Gentamicina)",
+      "suporte em UTI neonatal",
+      "monitoramento de complicacoes neurologicas"
+    ]
+  },
+  {
+    "doenca": "Melioidose",
+    "sintomas": [
+      "Febre",
+      "tosse",
+      "dor toracica (forma pulmonar)",
+      "abscessos cutaneos",
+      "dor articular",
+      "sepse grave. Endemica no Sudeste Asiatico e Norte da Australia"
+    ],
+    "tratamento": [
+      "Tratamento intensivo com Ceftazidima ou Meropenem venoso por 2 semanas",
+      "seguido de erradicacao com Bactrim por 3 a 6 meses"
+    ]
+  },
+  {
+    "doenca": "Muermo (Glanders)",
+    "sintomas": [
+      "Febre",
+      "calafrios",
+      "mialgia",
+      "dor toracica",
+      "secrecao nasal purulenta",
+      "ulceras cutaneas e abscessos ao longo dos linfaticos. Doenca de cavalos"
+    ],
+    "tratamento": [
+      "Antibioticoterapia combinada prolongada (ex. Ceftazidima + Bactrim). Alta letalidade sem tratamento. Rara em humanos"
+    ]
+  },
+  {
+    "doenca": "Febre de Trincheira",
+    "sintomas": [
+      "Febre recorrente (periodos de 5 dias)",
+      "cefaleia intensa",
+      "dor nas canelas (mialgia tibial)",
+      "exantema",
+      "transmitida por piolhos do corpo"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Doxiciclina associada a Gentamicina). Higiene pessoal e controle de piolhos sao fundamentais para a prevencao"
+    ]
+  },
+  {
+    "doenca": "Doenca da Arranhadura do Gato",
+    "sintomas": [
+      "Papula no local da lesao",
+      "seguida de linfadenopatia regional dolorosa e cronica",
+      "febre",
+      "mal-estar",
+      "apos arranhadura ou mordida de gato"
+    ],
+    "tratamento": [
+      "Geralmente autolimitada. Azitromicina pode acelerar a resolucao da linfadenopatia. Em imunodeprimidos",
+      "pode causar angiomatose bacilar"
+    ]
+  },
+  {
+    "doenca": "Angiomatose Bacilar",
+    "sintomas": [
+      "Lesoes cutaneas nodulares vermelho-purpureas que sangram facilmente",
+      "febre",
+      "emagrecimento",
+      "acometimento de orgaos internos em pacientes com Aids"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Eritromicina ou Doxiciclina) por varias semanas ate a regressao das lesoes. Causada por Bartonella henselae ou quintana"
+    ]
+  },
+  {
+    "doenca": "Febre de Oroya (Bartonelose)",
+    "sintomas": [
+      "Fase aguda: febre alta",
+      "anemia hemolitica grave",
+      "ictericia",
+      "linfadenopatia. Fase cronica (Verruga Peruana): lesoes cutaneas vasculares"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Ciprofloxacino ou Cloranfenicol para fase aguda; Rifampicina para verruga peruana). Endemica em vales andinos"
+    ]
+  },
+  {
+    "doenca": "Erliquiose Humana",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "mialgia",
+      "nausea",
+      "vomitos",
+      "leucopenia",
+      "trombocitopenia",
+      "elevacao de enzimas hepaticas",
+      "historia de picada de carrapato"
+    ],
+    "tratamento": [
+      "Antibioticoterapia com Doxiciclina iniciada precocemente. O atraso no tratamento pode levar a complicacoes graves e obito"
+    ]
+  },
+  {
+    "doenca": "Anaplasmose Granulocitica Humana",
+    "sintomas": [
+      "Quadro clinico identico a Erliquiose",
+      "com febre",
+      "cefaleia e alteracoes laboratoriais",
+      "transmitida por carrapatos do genero Ixodes"
+    ],
+    "tratamento": [
+      "Antibioticoterapia com Doxiciclina. Diagnostico via PCR ou visualizacao de morulas em neutrofilos no esfregaço sanguineo"
+    ]
+  },
+  {
+    "doenca": "Febre Recorrente Transmitida por Carrapatos",
+    "sintomas": [
+      "Episodios repetidos de febre alta",
+      "calafrios",
+      "cefaleia e mialgia",
+      "que duram alguns dias e desaparecem",
+      "retornando apos uma semana"
+    ],
+    "tratamento": [
+      "Antibioticoterapia (Doxiciclina",
+      "Penicilina ou Eritromicina). Atencao para a Reacao de Jarisch-Herxheimer logo apos a primeira dose"
+    ]
+  },
+  {
+    "doenca": "Febre Recorrente Transmitida por Piolhos",
+    "sintomas": [
+      "Semelhante a forma por carrapatos",
+      "mas geralmente mais grave",
+      "com maior risco de hemorragias",
+      "ictericia e complicacoes cardiacas"
+    ],
+    "tratamento": [
+      "Dose unica de Doxiciclina ou Eritromicina. Controle de piolhos e higiene sao essenciais. Ocorre em situacoes de aglomeracao e pobreza"
+    ]
+  },
+  {
+    "doenca": "Febre de Colorado por Carrapato",
+    "sintomas": [
+      "Febre bifasica (sela)",
+      "cefaleia intensa atras dos olhos",
+      "mialgia",
+      "fotofobia",
+      "nausea",
+      "vomitos",
+      "historia de exposicao em areas montanhosas (EUA/Canada)"
+    ],
+    "tratamento": [
+      "Tratamento sintomatico. A doenca e autolimitada",
+      "mas a fadiga pode persistir por semanas. Evitar doacao de sangue por 6 meses"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica de Omsk",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "mialgia",
+      "tosse",
+      "seguidos de manifestacoes hemorragicas",
+      "leucopenia e trombocitopenia. Transmitida por carrapatos ou contato com ratos almiscarados"
+    ],
+    "tratamento": [
+      "Suporte clinico",
+      "manejo de hemorragias e hidratacao. Nao ha tratamento antiviral especifico. Endemica na Siberia"
+    ]
+  },
+  {
+    "doenca": "Doenca da Floresta de Kyasanur",
+    "sintomas": [
+      "Febre alta",
+      "cefaleia",
+      "mialgia intensa",
+      "sintomas gastrointestinais e hemorragicos. Pode ter uma segunda fase neurologica. Transmitida por carrapatos"
+    ],
+    "tratamento": [
+      "Suporte clinico",
+      "hidratacao e manejo de sangramentos. Prevencao via vacinacao em areas endemicas (India) e controle de vetores"
+    ]
+  },
+  {
+    "doenca": "Encefalite Transmitida por Carrapatos (TBE)",
+    "sintomas": [
+      "Febre",
+      "mal-estar",
+      "seguidos de uma fase neurologica com meningite",
+      "encefalite ou mielite. Pode deixar sequelas permanentes"
+    ],
+    "tratamento": [
+      "Suporte clinico",
+      "manejo de edema cerebral e suporte ventilatorio se necessario. Prevencao via vacinacao (muito comum na Europa e Asia)"
+    ]
+  },
+  {
+    "doenca": "Febre de Powassan",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "vomitos",
+      "fraqueza",
+      "evoluindo para encefalite e meningite grave. Alta taxa de sequelas neurologicas e letalidade"
+    ],
+    "tratamento": [
+      "Suporte clinico intensivo. Nao ha tratamento especifico. Transmitida por carrapatos na America do Norte e Extremo Oriente Russo"
+    ]
+  },
+  {
+    "doenca": "Febre de Louping Ill",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "seguidos de ataxia",
+      "tremores e encefalite. Doenca de ovelhas que ocasionalmente infecta humanos via carrapatos ou aerossois"
+    ],
+    "tratamento": [
+      "Suporte clinico. A doenca em humanos e geralmente menos grave que em ovelhas",
+      "mas pode causar complicacoes neurologicas"
+    ]
+  },
+  {
+    "doenca": "Febre de Toscana",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "mialgia",
+      "frequentemente evoluindo para meningite asseptica ou encefalite durante o verao no Mediterraneo"
+    ],
+    "tratamento": [
+      "Tratamento sintomatico. A maioria dos casos recupera-se sem sequelas. Transmitida por flebotomos (mosquitos-palha)"
+    ]
+  },
+  {
+    "doenca": "Febre de Chandipura",
+    "sintomas": [
+      "Febre alta subita",
+      "vomitos",
+      "alteracao do nivel de consciencia",
+      "crises convulsivas",
+      "evolucao rapida para encefalite fatal em criancas"
+    ],
+    "tratamento": [
+      "Suporte intensivo imediato",
+      "controle de crises e edema cerebral. Alta letalidade. Transmitida por flebotomos na India"
+    ]
+  },
+  {
+    "doenca": "Febre de Rift Valley (Ocular)",
+    "sintomas": [
+      "Perda de acuidade visual",
+      "escotomas (manchas na visao)",
+      "dor ocular",
+      "ocorrendo semanas apos a fase febril da doenca"
+    ],
+    "tratamento": [
+      "Acompanhamento oftalmologico. As lesoes retinianas podem ser permanentes em cerca de 50% dos pacientes afetados"
+    ]
+  },
+  {
+    "doenca": "Febre de Rift Valley (Encefalitica)",
+    "sintomas": [
+      "Cefaleia intensa",
+      "confusao mental",
+      "crises convulsivas",
+      "coma",
+      "surgindo apos a recuperacao da febre inicial"
+    ],
+    "tratamento": [
+      "Suporte neurologico intensivo. Pode deixar sequelas neurologicas permanentes ou levar ao obito"
+    ]
+  },
+  {
+    "doenca": "Febre de Rift Valley (Hemorragica)",
+    "sintomas": [
+      "Ictericia",
+      "hematemese (vomito com sangue)",
+      "melena",
+      "petequias",
+      "falencia hepatica e choque",
+      "com alta letalidade"
+    ],
+    "tratamento": [
+      "Suporte intensivo",
+      "manejo de falencia hepatica e disturbios de coagulacao. Forma mais grave da doenca"
+    ]
+  },
+  {
+    "doenca": "Febre de Lassa (Surdez)",
+    "sintomas": [
+      "Perda auditiva sensorioneural uni ou bilateral",
+      "que pode ocorrer em ate 1/3 dos pacientes",
+      "independentemente da gravidade da fase aguda"
+    ],
+    "tratamento": [
+      "Reabilitacao auditiva. A surdez pode ser permanente em muitos casos e e uma sequela caracteristica da Febre de Lassa"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica de Alkhurma",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "mialgia",
+      "artralgia",
+      "seguidos de manifestacoes hemorragicas e encefalite em alguns casos. Variante do virus Kyasanur"
+    ],
+    "tratamento": [
+      "Suporte clinico. Transmitida por carrapatos ou consumo de leite nao pasteurizado de camelos/ovelhas na Arabia Saudita"
+    ]
+  },
+  {
+    "doenca": "Febre de Bourbon",
+    "sintomas": [
+      "Febre",
+      "fadiga",
+      "exantema",
+      "nausea",
+      "vomitos",
+      "leucopenia e trombocitopenia grave",
+      "historia de picada de carrapato (EUA)"
+    ],
+    "tratamento": [
+      "Suporte clinico. Nao ha tratamento especifico. A doenca pode ser fatal e e causada por um Thogotovirus"
+    ]
+  },
+  {
+    "doenca": "Febre de Heartland",
+    "sintomas": [
+      "Febre",
+      "fadiga",
+      "nausea",
+      "diarreia",
+      "mialgia",
+      "leucopenia e trombocitopenia",
+      "historia de picada de carrapato (EUA)"
+    ],
+    "tratamento": [
+      "Suporte clinico. Semelhante a Erliquiose",
+      "mas nao responde a antibioticos. Causada por um Phlebovirus"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica com Sindrome Renal (HFRS)",
+    "sintomas": [
+      "Febre",
+      "cefaleia",
+      "dor lombar",
+      "hemorragias conjuntivais",
+      "seguidas de oliguria",
+      "proteinuria e insuficiencia renal aguda"
+    ],
+    "tratamento": [
+      "Suporte clinico",
+      "manejo de fluidos",
+      "dialise se necessario. O antiviral Ribavirina pode ser eficaz se iniciado precocemente"
+    ]
+  },
+  {
+    "doenca": "Nefropatia Epidemica",
+    "sintomas": [
+      "Forma leve de HFRS",
+      "com febre",
+      "dor abdominal",
+      "miopia transitoria e insuficiencia renal aguda geralmente reversivel"
+    ],
+    "tratamento": [
+      "Suporte clinico e monitoramento da funcao renal. Causada pelo virus Puumala",
+      "transmitida por arganazes na Europa"
+    ]
+  },
+  {
+    "doenca": "Sindrome Cardiopulmonar por Hantavirus (Fase Prodromica)",
+    "sintomas": [
+      "Febre",
+      "mialgia (especialmente em grandes grupos musculares)",
+      "cefaleia",
+      "dor abdominal",
+      "nausea",
+      "vomitos",
+      "durando 3 a 6 dias"
+    ],
+    "tratamento": [
+      "Monitoramento rigoroso. A presenca de imunoblastos no sangue periferico e hemoconcentracao sao sinais de alerta para a fase cardiopulmonar"
+    ]
+  },
+  {
+    "doenca": "Sindrome Cardiopulmonar por Hantavirus (Fase de Choque)",
+    "sintomas": [
+      "Hipotensao grave",
+      "baixo debito cardiaco",
+      "edema pulmonar macico",
+      "acidose metabolica",
+      "alta letalidade nesta fase"
+    ],
+    "tratamento": [
+      "Suporte inotropico",
+      "ventilacao mecanica protetora",
+      "as vezes ECMO (oxigenacao por membrana extracorporea) em centros especializados"
+    ]
+  },
+  {
+    "doenca": "Febre Hemorragica de Oropouche (Rara)",
+    "sintomas": [
+      "Manifestacoes hemorragicas como petequias",
+      "epistaxe e gengivorragia associadas ao quadro febril intenso de Oropouche"
+    ],
+    "tratamento": [
+      "Suporte clinico e monitoramento de plaquetas. Embora rara",
+      "a forma hemorragica exige vigilancia"
+    ]
+  },
+  {
+    "doenca": "Meningite por Oropouche",
+    "sintomas": [
+      "Cefaleia intensa",
+      "rigidez de nuca",
+      "pleocitose no liquor",
+      "ocorrendo durante ou logo apos o episodio febril de Oropouche"
+    ],
+    "tratamento": [
+      "Tratamento sintomatico e suporte. A evolucao costuma ser benigna",
+      "sem sequelas permanentes"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Artrite Cronica)",
+    "sintomas": [
+      "Dores articulares persistentes e debilitantes que podem durar meses apos a fase aguda",
+      "afetando a qualidade de vida"
+    ],
+    "tratamento": [
+      "Analgesicos",
+      "anti-inflamatorios",
+      "fisioterapia e",
+      "em alguns casos",
+      "uso de corticoides sob supervisao medica"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Exantema)",
+    "sintomas": [
+      "Manchas vermelhas generalizadas (maculopapulares) que surgem por volta do 5 dia de febre",
+      "as vezes com prurido leve"
+    ],
+    "tratamento": [
+      "Sintomaticos e antihistaminicos se houver coceira. O exantema costuma desaparecer em poucos dias"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Forma Grave)",
+    "sintomas": [
+      "Raros relatos de encefalite ou manifestacoes hemorragicas graves associadas ao virus Mayaro"
+    ],
+    "tratamento": [
+      "Suporte intensivo conforme a complicacao apresentada. Exige diagnostico diferencial com outras arboviroses"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Fase Aguda)",
+    "sintomas": [
+      "Febre alta",
+      "calafrios",
+      "cefaleia",
+      "dor retro-orbitaria",
+      "mialgia intensa e linfadenopatia",
+      "durando de 3 a 5 dias"
+    ],
+    "tratamento": [
+      "Repouso",
+      "hidratacao e analgesicos (evitar AAS ate descartar Dengue)"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Edema)",
+    "sintomas": [
+      "Inchaco nas articulacoes afetadas (edema articular)",
+      "acompanhado de calor e limitacao de movimento durante a fase aguda"
+    ],
+    "tratamento": [
+      "Repouso da articulacao",
+      "compressas e anti-inflamatorios conforme orientacao medica"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Recorrencia)",
+    "sintomas": [
+      "Retorno dos sintomas febris e articulares apos um curto periodo de melhora aparente",
+      "caracteristico de algumas arboviroses"
+    ],
+    "tratamento": [
+      "Manutencao do suporte clinico e repouso. A recorrencia costuma ser mais leve que o episodio inicial"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Diagnostico)",
+    "sintomas": [
+      "Confirmacao via isolamento viral",
+      "PCR ou sorologia (IgM/IgG)",
+      "importante para diferenciar de Dengue e Chikungunya"
+    ],
+    "tratamento": [
+      "Coleta de amostras na fase aguda (ate 5 dia para PCR) ou fase de convalescenca para sorologia"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Prevencao)",
+    "sintomas": [
+      "Uso de repelentes",
+      "roupas compridas em areas de mata e telas em janelas",
+      "ja que o vetor e principalmente o mosquito Haemagogus"
+    ],
+    "tratamento": [
+      "Medidas de protecao individual sao essenciais para quem frequenta areas rurais ou de floresta"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Epidemiologia)",
+    "sintomas": [
+      "Ocorre principalmente na regiao Amazonica",
+      "mas com potencial de expansao para outras regioes do Brasil e Americas"
+    ],
+    "tratamento": [
+      "Vigilancia epidemiologica ativa em casos de sindrome febril exantematica com dor articular forte"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Vetor)",
+    "sintomas": [
+      "Transmitida principalmente pelo mosquito Haemagogus em ciclo silvestre",
+      "mas o Aedes aegypti pode ser um vetor potencial em laboratorio"
+    ],
+    "tratamento": [
+      "Controle de vetores e monitoramento de casos em areas de transicao rural-urbana"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Hospedeiro)",
+    "sintomas": [
+      "Primatas nao humanos e aves sao os principais reservatorios na natureza",
+      "mantendo o ciclo silvestre do virus"
+    ],
+    "tratamento": [
+      "Estudos de epizootias em macacos podem ajudar a prever surtos humanos"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Tratamento)",
+    "sintomas": [
+      "Nao existe vacina ou tratamento antiviral especifico",
+      "o manejo e puramente de suporte e controle de sintomas"
+    ],
+    "tratamento": [
+      "Foco na analgesia e hidratacao para garantir o conforto do paciente e evitar complicacoes"
+    ]
+  },
+  {
+    "doenca": "Febre de Mayaro (Conclusao)",
+    "sintomas": [
+      "Doenca emergente que requer atencao devido a cronicidade das dores articulares e semelhança com outras febres tropicais"
+    ],
+    "tratamento": [
+      "Importancia do diagnostico laboratorial correto para manejo clinico e acoes de saude publica"
+    ]
+  }
+]
