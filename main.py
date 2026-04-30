@@ -3,8 +3,7 @@ from diagno_train import (
     carregar_doencas,
     preparar_base,
     diagnosticar,
-    normalizar,
-    sentence_vector
+    normalizar
 )
 
 # Biblioteca para o modelo
@@ -104,8 +103,14 @@ def main():
         for i, (doenca, score) in enumerate(resultados, start=1):
             print(f"{i}. Doença: {doenca['doenca']}")
             print(f"   Score de similaridade: {score:.4f}")
-            print(f"   Descrição: {doenca.get('tratamento', 'N/A')}")
+            print(f"   Sintomas: {', '.join(doenca['sintomas'])}")
+            print(f"   Prescrição: {doenca.get('tratamento', 'N/A')}")
             print("-" * 40)
+
+        print(f"   \nLembrar que este é um diagnóstico preliminar e não substitui uma consulta médica. \nProcure um profissional de saúde para avaliação completa.\n")
+        for i in range(1):
+            print("-" * 40)
+
 
 # EXECUÇÃO #
 

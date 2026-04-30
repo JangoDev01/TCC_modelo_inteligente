@@ -1,17 +1,18 @@
 import json
-import re
-import unicodedata
+import re # Biblioteca para expressões regulares, usada na normalização de texto
+import unicodedata # Biblioteca para manipulação de caracteres Unicode, usada para remover acentos
 import numpy as np
-from gensim.models import FastText
-from sklearn.metrics.pairwise import cosine_similarity
+from gensim.models import FastText # Biblioteca para o modelo FastText, usada para criar vetores de palavras e frases
+from sklearn.metrics.pairwise import cosine_similarity # Biblioteca para calcular a similaridade entre vetores
 
 # Normalização de texto #
 
 """
-    - Remove acentos, pontuação e converte para minúsculas
-    - Retorna uma lista de tokens
-    - Exemplo: 
-        "Dor de cabeça e febre" -> ["dor", "de", "cabeca", "e", "febre"]
+    Função responsável por normalizar o texto de entrada:
+        - Remove acentos, pontuação e converte para minúsculas
+        - Retorna uma lista de tokens
+        - Exemplo: 
+            "Dor de cabeça e febre" -> ["dor", "de", "cabeca", "e", "febre"]
 
     "unicodedata.normalize('NFD', texto)" :
         - decompoe os caracteres acentuados em seus componentes básicos (letra + acento)
@@ -26,9 +27,10 @@ def normalizar(texto):
 # Vetor de frase (média dos vetores) #
 
 """
-    - Recebe um modelo FastText e uma lista de tokens
-    - Retorna o vetor médio dos tokens presentes no modelo
-    - Se nenhum token estiver presente, retorna um vetor zero
+    Função responsável por criar um vetor de frase a partir dos vetores das palavras:
+        - Recebe um modelo FastText e uma lista de tokens
+        - Retorna o vetor médio dos tokens presentes no modelo
+        - Se nenhum token estiver presente, retorna um vetor zero
 """
 def sentence_vector(model, tokens):
     vectors = [model.wv[word] for word in tokens if word in model.wv]
@@ -45,10 +47,11 @@ def carregar_doencas(caminho_json):
 # Preparar vetores das doenças #
 
 """
-    - Para cada doença, cria um vetor médio dos seus sintomas
-    - Retorna uma lista de tuplas (doença, vetor)
-    - Exemplo: 
-        [(doenca1, vetor1), (doenca2, vetor2), ...]
+    Função responsável por preparar a base vetorial das doenças:
+        - Para cada doença, cria um vetor médio dos seus sintomas
+        - Retorna uma lista de tuplas (doença, vetor)
+        - Exemplo: 
+            [(doenca1, vetor1), (doenca2, vetor2), ...]
 """
 def preparar_base(model, doencas):
     base_vetores = []
@@ -137,22 +140,3 @@ if __name__ == "__main__":
 
     # Preparar base vetorial
     base_vetores = preparar_base(model, doencas)
-
-    # Input do usuário
-    input_user = input("Descreva seus sintomas: ")
-
-    resultados = diagnosticar(model, base_vetores, input_user)
-
-    print("\nPossíveis diagnósticos:\n")
-
-    """
-        Para cada doença e seu score nos resultados:
-            - Imprime o nome da doença, o score formatado com 4 casas decimais e a descrição (se disponível)
-            - Se a descrição não estiver disponível, imprime 'N/A'
-            - Imprime uma linha de separação para melhor visualização
-    """
-    for d, score in resultados:
-        print(f"Doença: {d['doenca']}")
-        print(f"Score: {score:.4f}")
-        print(f"Descrição: {d.get('tratamento', 'N/A')}")
-        print("-" * 40) # Separação entre resultados para melhor visualização
