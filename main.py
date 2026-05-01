@@ -1,4 +1,4 @@
-# IMPORTAÇÕES #
+# IMPORTAÇÕES DO ARQUIVO -diagno_train- #
 from diagno_train import (
     carregar_doencas,
     preparar_base,
@@ -10,8 +10,8 @@ from diagno_train import (
 from gensim.models import FastText
 
 caminho_json = "data/medical_data.json"
-# FUNÇÃO PRINCIPAL #
 
+# FUNÇÃO PRINCIPAL #
 """
     Função Responsável por:
         - carregar dados
