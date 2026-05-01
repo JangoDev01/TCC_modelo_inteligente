@@ -6,9 +6,10 @@ Este projeto foi desenvolvido com foco em:
 * Aprendizado em treiamento de modelos de pln
 * Aplicação prática de conceitos treinamento de modelos de pln
 
-Autor
-Miguel Gabriel
-Engenharia Informática | Programação e Machine Learning
+Autor:
+
+* Miguel Gabriel
+* Engenharia Informática | Programação e Machine Learning
 
 # Descrição Geral
 
